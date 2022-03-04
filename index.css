@@ -1,0 +1,32 @@
+.heading{
+    font-family: sans-serif;
+    color:blue;
+    font-size: 40px;
+    text-align: center;
+}
+.bg-container{
+    background-image:url("https://www.oecd.org/media/oecdorg/directorates/centreforentrepreneurshipsmesandlocaldevelopment/2017/Tourism-Visual-250.jpg") ;
+    height: 100vh;
+    background-size: cover;
+}
+.card-container{
+    background-color: white;
+    padding:10px;
+}
+.para{
+   text-align: center; 
+   font-family: sans-serif;
+    color:blue;
+    font-size: 20px;
+}
+.button{
+    text-align: center;
+}
+.tilt{
+background-color: blue;
+    color:white;
+    height: 50px;
+    width: 100px;
+    border-width: 0px;
+    border-radius: 5px;
+}
